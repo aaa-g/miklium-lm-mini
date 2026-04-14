@@ -27,7 +27,8 @@ Here is an example demonstrating the prompt format and the reasoning capabilitie
 ```text
 Prompt: <user> What is the capital of France?
 Response: 
-<ai> <think> The user is asking for the capital of France. The capital of France is Paris. <eos>
+<ai> <think> The user is asking for the capital of France. </think>
+The capital of France is Paris. <eos>
 ```
 
 ## License
